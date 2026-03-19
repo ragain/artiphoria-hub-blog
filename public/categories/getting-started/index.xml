@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on Artiphoria-Hub</title>
+    <link>http://localhost:39009/categories/getting-started/</link>
+    <description>Recent content in Getting Started on Artiphoria-Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:49:55 -0400</lastBuildDate>
+    <atom:link href="http://localhost:39009/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Artiphoria-Hub</title>
+      <link>http://localhost:39009/posts/welcome-to-artiphoria/</link>
+      <pubDate>Thu, 19 Mar 2026 00:49:55 -0400</pubDate>
+      <guid>http://localhost:39009/posts/welcome-to-artiphoria/</guid>
+      <description>&lt;h2 id=&#34;hello-world-&#34;&gt;Hello, World! 👋&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Artiphoria-Hub&lt;/strong&gt; — where creativity meets code, and art meets technology.&lt;/p&gt;&#xA;&lt;p&gt;This isn&amp;rsquo;t just another tech blog. This is a space for creators who believe that the future of art is &lt;strong&gt;digital&lt;/strong&gt;, &lt;strong&gt;accessible&lt;/strong&gt;, and &lt;strong&gt;exciting&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-youll-find-here&#34;&gt;🎨 What You&amp;rsquo;ll Find Here&lt;/h2&gt;&#xA;&lt;h3 id=&#34;digital-art--design&#34;&gt;Digital Art &amp;amp; Design&lt;/h3&gt;&#xA;&lt;p&gt;Tutorials on tools like Photoshop, Procreate, Blender, and more. From beginner basics to advanced techniques.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-ai--creativity&#34;&gt;🤖 AI &amp;amp; Creativity&lt;/h3&gt;&#xA;&lt;p&gt;Exploring how artificial intelligence is transforming the creative landscape:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

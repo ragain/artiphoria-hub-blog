@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Artiphoria-Hub</title>
+    <link>http://localhost:39009/tags/welcome/</link>
+    <description>Recent content in Welcome on Artiphoria-Hub</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:49:55 -0400</lastBuildDate>
+    <atom:link href="http://localhost:39009/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Artiphoria</title>
+      <link>http://localhost:39009/posts/welcome-to-artiphoria/</link>
+      <pubDate>Thu, 19 Mar 2026 00:49:55 -0400</pubDate>
+      <guid>http://localhost:39009/posts/welcome-to-artiphoria/</guid>
+      <description>&lt;h2 id=&#34;hello-world-&#34;&gt;Hello, World! 👋&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to &lt;strong&gt;Artiphoria&lt;/strong&gt; — your new corner of the internet where we&amp;rsquo;ll be exploring the intersection of art, technology, and creativity.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-to-expect-here&#34;&gt;What to Expect Here&lt;/h3&gt;&#xA;&lt;p&gt;This blog is going to be a space for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🎨 &lt;strong&gt;Digital Art&lt;/strong&gt; — Tutorials, showcases, and tools&lt;/li&gt;&#xA;&lt;li&gt;🤖 &lt;strong&gt;AI &amp;amp; Creativity&lt;/strong&gt; — How artificial intelligence is reshaping artistic expression&lt;/li&gt;&#xA;&lt;li&gt;💡 &lt;strong&gt;Tech Deep-Dives&lt;/strong&gt; — Behind-the-scenes looks at the tools we use&lt;/li&gt;&#xA;&lt;li&gt;📚 &lt;strong&gt;Resources&lt;/strong&gt; — Curated links, books, and inspiration&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why-artiphoria&#34;&gt;Why &amp;ldquo;Artiphoria&amp;rdquo;?&lt;/h3&gt;&#xA;&lt;p&gt;The name comes from combining &lt;em&gt;Art&lt;/em&gt; + &lt;em&gt;Euphoria&lt;/em&gt; — because creating should feel joyful, not frustrating. Whether you&amp;rsquo;re a seasoned creator or just starting out, there&amp;rsquo;s something here for you.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

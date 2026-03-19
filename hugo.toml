@@ -1,0 +1,14 @@
+baseURL = 'https://artiphoria-hub.github.io/'
+languageCode = 'en-us'
+title = 'Artiphoria-Hub'
+theme = 'ananke'
+
+[params]
+  description = 'Where art meets technology — tutorials, AI creativity, and digital inspiration'
+  author = 'Mo'
+  favicon = 'favicon.ico'
+
+[params.ananke.social]
+  github = 'yourusername'
+  twitter = 'yourusername'
+  instagram = 'yourusername'
